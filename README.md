@@ -25,10 +25,4 @@ Setup & Usage:
   - Evaluate: Compare model responses (needs 2+ transactions)
 
 Note: For best results, maintain consistent Customer IDs and try different prompting techniques
-"""
 
-import ipywidgets as widgets
-from IPython.display import Markdown, display
-from us import states
-import pandas as pd
-import re
